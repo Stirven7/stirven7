@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Paul 
+# ¡Hola! 👋 Soy Paul Choconi Mamani
 
 ### 🎓 Estudiante de Informatica  
 ### 💻 Apasionado/a por programación, ciberseguridad, IA.  

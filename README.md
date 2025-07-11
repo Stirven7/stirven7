@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Paul Choconi Mamani
 
 ### 🎓 Estudiante de Informatica  
-### 💻 Apasionado/a por programación, ciberseguridad, IA.  
+### 💻 Apasionado por la programación, ciberseguridad y IA.  
 ### 🌱 Actualmente aprendiendo A programar C++ 
 
 # Habilidades de Porgramacion  
@@ -10,7 +10,7 @@
 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (50%)  
 
 ### C++  
-🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (2%)  
+🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (5%)  
 
 ### HTML  
 🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (5%)  

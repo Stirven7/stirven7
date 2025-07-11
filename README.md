@@ -18,8 +18,9 @@
 ### CSS  
 🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (5%)  
 
-### 🚀 Frase motivadora/favorita:  
-*"La persistencia convierte el fracaso en logro."*  
-
+### 🚀 Frase motivadora:  
+ 
+"La verdadera fuerza no proviene del cuerpo... sino de la voluntad inquebrantable."  
+  
 ### 📫 ¿Cómo contactarme?  
 - Correo: Jheanchoconi1@gmail.com

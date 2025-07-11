@@ -1,16 +1,25 @@
-## Hi there 👋 aaa
+# ¡Hola! 👋 Soy Paul 
 
-<!--
-**Stirven7/stirven7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de Informatica  
+### 💻 Apasionado/a por programación, ciberseguridad, IA.  
+### 🌱 Actualmente aprendiendo A programar C++ 
 
-Here are some ideas to get you started:
+# Habilidades Técnicas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Java  
+🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (60%)  
+
+### C++  
+🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (5%)  
+
+### HTML  
+🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪ (10%)  
+
+### CSS  
+🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪ (10%)  
+
+### 🚀 Frase motivadora/favorita:  
+*"La persistencia convierte el fracaso en logro."*  
+
+### 📫 ¿Cómo contactarme?  
+- Correo: Jheanchoconi1@gmail.com

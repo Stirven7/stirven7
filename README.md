@@ -4,6 +4,8 @@
 ### 💻 Apasionado por la programación, ciberseguridad y IA.  
 ### 🌱 Actualmente aprendiendo A programar C++ 
 
+![](https://github.com/Stirven7/stirven7/blob/main/concept-of-computer-programming-vector-44188523.jpg)
+
 # Habilidades de Porgramacion  
 
 ### Java  

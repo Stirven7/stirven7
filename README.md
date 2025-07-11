@@ -4,19 +4,19 @@
 ### 💻 Apasionado/a por programación, ciberseguridad, IA.  
 ### 🌱 Actualmente aprendiendo A programar C++ 
 
-# Habilidades Técnicas  
+# Habilidades de Porgramacion  
 
 ### Java  
-🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (60%)  
+🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (50%)  
 
 ### C++  
-🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (5%)  
+🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (2%)  
 
 ### HTML  
-🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪ (10%)  
+🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (5%)  
 
 ### CSS  
-🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪ (10%)  
+🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪ (5%)  
 
 ### 🚀 Frase motivadora/favorita:  
 *"La persistencia convierte el fracaso en logro."*  

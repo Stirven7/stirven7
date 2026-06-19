@@ -5,7 +5,7 @@
 
 ![](https://github.com/Stirven7/stirven7/blob/main/concept-of-computer-programming-vector-44188523.jpg)
 
-# Habilidades de Porgramacion  
+# Habilidades de Programacion  
 
 ### Java  
 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (50%)  
